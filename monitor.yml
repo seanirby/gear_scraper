@@ -1,0 +1,14 @@
+---
+feeds:
+  - http://seattle.craigslist.org/cba/index.rss
+  - http://seattle.craigslist.org/ela/index.rss  
+  - http://seattle.craigslist.org/msa/index.rss  
+include: broke, broken, doesn, fix, fixed, repair, repaired, needs, as is, won, busted, missing, CDP, DCD
+exclude: no issues, works perfect, works great, cymbal
+email_to: sean.t.irby@gmail.com
+email_from:
+  address: smtp.gmail.com
+  port: 587
+  user_name: 'gmail_user_name'
+  password: 'password'
+
